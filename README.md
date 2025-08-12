@@ -35,7 +35,7 @@ This Android application demonstrates basic **CRUD (Create, Read, Update, Delete
 
 ## Setup Instructions
 
-1. Clone or download the project ZIP file and open it in **Android Studio**.  
+1. Clone or download the project ZIP file and open it in **Android Studio**.The code is well commented so user can get a better clarification about the codes.  
 2. Ensure you have the `google-services.json` file placed inside the `app/` directory.  
 3. Verify that your `build.gradle` files contain the necessary Firebase dependencies and the Google Services plugin:
 
